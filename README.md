@@ -1,0 +1,3 @@
+# KON
+
+Chrome new tab
